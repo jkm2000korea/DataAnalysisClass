@@ -7,3 +7,5 @@
 # Week_1. 
 
 ![image](https://github.com/jkm2000korea/DataAnalysisClass/assets/77305773/a56775ed-3dd4-4404-b881-7834448efbf0)
+
+![image](https://github.com/jkm2000korea/DataAnalysisClass/assets/77305773/4cdaf552-0721-4425-bc98-089dc8d9a783)
