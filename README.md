@@ -1,3 +1,13 @@
+# 2024년 3월 28일 통계청 발표_일자리행정통계 임금근로자 부채
+
+### 1. 임금근로자의 개인대출 및 연체율
+
+ ##### □ 2022년 12월말 기준 임금근로자의 평균대출은 5,115만원으로 전년 대비 1.7%(△87만원) 감소
+ #####  ㅇ 연체율(대출잔액 기준)은 0.43%로 전년보다 0.02%p 높아짐
+
+![image](https://github.com/jkm2000korea/DataAnalysisClass/assets/77305773/88df89ff-cef1-4eef-a0ad-ecdb2ee8482c)
+
+
 # Such as Dot plot for Federal Funds Rate Projection <br>announced by the U.S. FOMC on December 13, 2023
 
 ![20231213_FED_DOT_PLOT](https://github.com/jkm2000korea/DataAnalysisClass/assets/77305773/50b9409e-eddf-4ac9-894a-6d700a3e7049)
