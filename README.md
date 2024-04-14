@@ -11,6 +11,14 @@
 
 
 
+## 관계형 데이터베이스의 개념을 비전공자가 이해하려면
+### 테이블과 키의 개념
+
+![image](https://github.com/jkm2000korea/DataAnalysisClass/assets/77305773/a28955bc-e3e9-4e5e-8214-6698458763a1)
+
+
+
+
 ## 미국 연방 준비은행 FOMC 점도표 
 ### Such as Dot plot for Federal Funds Rate Projection announced by the U.S. FOMC on December 13, 2023
 
